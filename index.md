@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 ---
@@ -122,14 +121,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-=======
-Welcome to My Home Page
-
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
-
-
-
->>>>>>> f9c90f02bc21c15bfcbef3f70e6e1a864a4827c9
